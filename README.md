@@ -4,6 +4,7 @@ Hey! I'm Ryorama, I am currently working on a 3 mods including my main one Terra
 
 * TerrariaMod
 * The Stones of Life
+* BedrockModCompat / Geyser-Farbic
 
 ## My GitHub Stats
 
