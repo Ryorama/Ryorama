@@ -1,10 +1,10 @@
-Hey! I'm Ryorama, I am currently working on a 3 mods including my main one TerrariaMod as well as a game called The Stones of Life.
+Hey! I'm Ryorama, a 19 year old developer, and I have worked on many personal projects (many of which are either dead or have been on hold for a long time) varying from mods for Minecraft (Both Fabric and Forge) or Terraria with some occasional work with the Unity Game Engine / C#.
 
-## Current Projects
+## Projects
 
 * TerrariaMod
-* The Stones of Life
-* BedrockModCompat / Geyser-Farbic (https://github.com/BedrockModCompat-Team/BedrockModCompat)
+* The Stones of Life [On Hold]
+* BedrockModCompat / Geyser-Farbic (https://github.com/BedrockModCompat-Team/BedrockModCompat) [Abandoned / Archived : Re-Write in consideration]
 
 ## My GitHub Stats
 
