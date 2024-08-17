@@ -1,10 +1,11 @@
-Hey! I'm Ryorama, a 19 year old developer, and I have worked on many personal projects (many of which are either dead or have been on hold for a long time) varying from mods for Minecraft (Both Fabric and Forge) or Terraria with some occasional work with the Unity Game Engine / C#.
+Hey! I'm Ryorama, a 21 year old developer, and I have worked on many personal projects (many of which are either dead or have been on hold for a long time) varying from mods for Minecraft (Both Fabric and Forge) or Terraria with some occasional work with the Unity Game Engine / C#.
 
 ## Projects
 
-* TerrariaMod
+* CalamityCraft
+* TerrariaMod [On hold until further notice]
 * The Stones of Life [On Hold]
-* BedrockModCompat / Geyser-Farbic (https://github.com/BedrockModCompat-Team/BedrockModCompat) [Abandoned / Archived : Re-Write in consideration]
+* BedrockModCompat / Geyser-Farbic (https://github.com/BedrockModCompat-Team/BedrockModCompat) [Abandoned / Archived : Please look at https://github.com/GeyserMC/Hydraulic]
 
 ## My GitHub Stats
 
